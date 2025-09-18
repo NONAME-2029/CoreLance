@@ -1,0 +1,14 @@
+Meeting Summary: Test PDF Generation
+==================================================
+
+Meeting ID: 2
+Start Time: 2025-08-31 19:41:39.946781
+End Time: 2025-08-31 19:41:40.013104
+Duration: 0 minutes
+Status: completed
+
+Main Discussion Points:
+Testing PDF creation, verifying functionality
+
+Meeting Transcript:
+------------------------------
